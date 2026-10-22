@@ -1,7 +1,7 @@
-# WhatsApp Baileys
+# Zenvura Baileys
 
 <p align="center">
-  <img src="https://rahmad-elaina.my.id/file/c2807a3020.jpg" width="300"/>
+  <img src="https://rahmad-elaina.my.id/file/0da73db4c3.jpg" width="300"/>
 </p><p align="center">
   <b>Pustaka Bot WhatsApp</b><br>
   Wrapper Baileys berkinerja tinggi untuk otomatisasi bot WhatsApp kalian
@@ -13,7 +13,7 @@
 
 # Overview
 
-WhatsApp Baileys adalah library open source berbasis Baileys yang telah dimodifikasi untuk kebutuhan automation dan integrasi WhatsApp skala besar.
+Zenvura Baileys adalah library open source berbasis Baileys yang telah dimodifikasi untuk kebutuhan automation dan integrasi WhatsApp skala besar.
 
 Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitur terbaru dari WhatsApp bot.
 
@@ -36,6 +36,6 @@ Dirancang agar ringan, cepat, dan mudah digunakan, serta mendukung berbagai fitu
 
 # Installation
 
-npm install RahmadPasker/baileys
+npm install ./baileys
 
 ---
